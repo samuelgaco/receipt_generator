@@ -1,3 +1,7 @@
+```
+git clone git@github.com:samuelgaco/receipt_generator.git
+```
+
 Commands to run the project locally:
 
 
