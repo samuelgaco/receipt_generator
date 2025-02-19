@@ -26,7 +26,7 @@ class ReceiptGenerator
   end
 
   def total_sales_taxes
-    items.map { |item| item.get_pvp - item.get_net }.sum.round(2)
+    items.map { |item| (item.get_pvp - item.get_net) * item.get_quantity }.sum.round(2)
   end
 
   def total_price
