@@ -38,6 +38,6 @@ item.pvp: imported bottle of perfume at 32.19
 item.pvp: bottle of perfume at 20.89
 item.pvp: packet of headache pills at 9.75
 item.pvp: imported boxes of chocolates at 35.55
-Sales Taxes: 6.7
+Sales Taxes: 7.9
 Total: 98.38
 ```
